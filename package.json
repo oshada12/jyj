@@ -23,16 +23,16 @@
         "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Hyzerr/MD-V3",
+    "homepage": "https://github.com/oshada12/jyjgtyg",
     "author": {
-        "name": "Elyas"
+        "name": "oshada"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/github.com/Hyzerr/MD-V3.git"
+        "url": "git+https://github.com/github.com/oshada12/jyjgtyg.git"
     },
     "bugs": {
-        "url": "https://github.com/github.com/Hyzerr/MD-V3/issues"
+        "url": "https://github.com/github.com/oshada12/jyjgtyg/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

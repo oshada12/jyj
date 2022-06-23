@@ -1,5 +1,5 @@
 {
-    "name": "Vimukthi-md",
+    "name": "Shiro-md",
     "version": "3.5.4",
     "description": "Simple Bot WhatsApp",
     "depecrated": false,
@@ -23,16 +23,16 @@
         "ShiraoriBOT",
         "wabot-aq"
     ],
-    "homepage": "https://github.com/Hyzerr/MD-V3",
+    "homepage": "https://github.com/Paquito1923/elyasmd",
     "author": {
         "name": "Elyas"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/github.com/Hyzerr/MD-V3.git"
+        "url": "git+https://github.com/Paquito1923/elyasmd.git"
     },
     "bugs": {
-        "url": "https://github.com/github.com/Hyzerr/MD-V3/issues"
+        "url": "https://github.com/Paquito1923/elyasmd/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {

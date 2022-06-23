@@ -10,7 +10,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install && npm install qrcode-terminal  && npm install xfarr-api && npm start
+RUN npm install && npm install qrcode-terminal  && npm install xfarr-api && npm i pm2 -g && pm2 start index.js && pm2 save && pm2 log
 COPY . .
 
 EXPOSE 5000
